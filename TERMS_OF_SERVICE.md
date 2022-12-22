@@ -4,7 +4,7 @@ These Terms of Service ("Terms", "ToS", "Policy") are a legal agreement between 
 
 We reserve the right to update these Terms at any point in time, to add, modify or remove legal requirements. If the aforementioned changes affect your usage of ElBe-Development Products, we will notify you at least seven days prior to those changes taking effect. Unless stated otherwise, continuing to use the Service after modifications to the Terms will display your agreement and acceptance to those changes.
 
-# Discord Bot Template
+# Simply Discord Bot
 
 You may not impersonate ElBe-Development, Bots by ElBe-Development or people associated with ElBe-Development. All assets and names are intellectual property of ElBe-Development and underlie Copyright.
 
