@@ -1,5 +1,5 @@
 # Introduction
-ElBe-Development ("we", "us", "team") collects data from users. You automaticaly agree with that, if you join a server using one of our services.
+ElBe-Development ("we", "us", "team") collects data from users using this product. You automaticaly agree with that, if you join a server using one of our services.
 
 # The following data is collected
 
